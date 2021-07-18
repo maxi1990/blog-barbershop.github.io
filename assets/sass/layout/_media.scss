@@ -1,0 +1,31 @@
+@media screen and (min-width: $tablet) {
+
+    /*header*/ 
+    h1 {
+        font-size: $xx-large;
+    }
+
+    /* main section*/
+    .main_section__h5 {
+        font-size: $large!important;
+    }
+
+    /* buttons*/ 
+    .main_section_row-btn-gray {
+        font-size: 16px;
+    }
+
+    /*about section*/
+
+    .about_section__row_col-author-links {
+        font-size: 20px;
+    }
+
+    /*footer*/
+
+    .footer__img {
+        width: 7.625rem; 
+    }
+
+
+}
